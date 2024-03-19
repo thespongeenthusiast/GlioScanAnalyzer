@@ -3,6 +3,8 @@
 # Description
 GlioScanAnalyzer is an innovative automated pipeline designed to streamline the analysis of brain tumor MRI scans, with a specific focus on glioblastoma (glio) tumors. This project leverages the power of deep learning and machine learning to segment tumors in MRI scans and predict tumor growth over time. By integrating a U-Net architecture for tumor segmentation with an RNN component for temporal analysis, GlioScanAnalyzer provides a comprehensive tool for clinicians and researchers to analyze brain tumors and predict their growth.
 
+![image](https://github.com/thespongeenthusiast/GlioScanAnalyzer/assets/163718946/616064d0-30c9-4b89-9773-1c0f9987cd4b)
+
 # Background
 Glioblastoma is one of the most aggressive and lethal types of brain tumors, with a high mortality rate. Traditional methods of tumor analysis and growth prediction often require significant time and expertise, making it challenging for clinicians to monitor the progression of these tumors effectively. GlioScanAnalyzer addresses this challenge by automating the process of tumor analysis, from MRI data acquisition to tumor segmentation, registration, and growth prediction.
 
